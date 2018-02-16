@@ -649,7 +649,7 @@
 
 \let\@doi\relax
 
-\def\doi@base{http://dx.doi.org/}
+\def\doi@base{https://doi.org/}
 
 % arXiv
 
